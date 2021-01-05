@@ -1,0 +1,15 @@
+{
+  "name": "cymane_client",
+  "version": "1.0.0",
+  "description": "A client software that connects with online Cymane services and gives an easy way to perform operations remotely using a slick desktop client.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Eyal Berkovich",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
